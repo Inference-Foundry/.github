@@ -1,0 +1,27 @@
+name: Org meta
+description: Questions or proposals about Inference Foundry organization defaults — profile README, docs in this repo, roster, or cross-repo policy. Not for product bugs (use the relevant repository).
+title: "[org]: "
+labels: ["meta", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template for **Inference-Foundry/.github** only (org landing page, `docs/`, shared CONTRIBUTING/SECURITY stubs).
+
+        For **super-ollama** bugs or RFCs, open an issue in [super-ollama](https://github.com/Inference-Foundry/super-ollama/issues).
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: What you want to change or clarify at the organization level.
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Links, alternatives considered, or affected files if known.
+    validations:
+      required: false

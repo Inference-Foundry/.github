@@ -1,28 +1,32 @@
-# ⚙️ Inference Foundry
+# Inference Foundry
 
-We build high-efficiency, bare-metal AI tools. Our research focuses on eliminating runtime overhead and optimizing local inference architectures. We maintain `super-ollama` alongside open-source system benchmarking utilities.
+We are an open-source organization working next to research in **LLMs**, **diffusion models**, and **efficient local inference**: tools, experiments, and shared artifacts anyone can build on.
 
-## 🚀 Flagship Project: `super-ollama`
+**Organization site (overview, news):** [inference-foundry.github.io](https://inference-foundry.github.io/)
 
-`super-ollama` is a terminal-native, serverless local LLM engine designed for absolute execution efficiency.
-
-* Eliminated 100% of HTTP server overhead for CLI inference, by embedding the `llama.cpp` backend directly into the terminal process, resulting in 0 network latency.
-* Reduced VRAM leak occurrences to 0, by implementing strict OS signal trapping and CGo context teardowns, resulting in 1 completely stable environment for consecutive model executions.
-* Established 1 core research hub for system-level ML optimizations, by structuring C++ and Go implementations into isolated modules, resulting in 50% faster onboarding for new architectural contributors.
-
-## 🔬 Core Focus Areas
-
-Our development and research pipelines target:
-* **Bare-metal Inference:** Bypassing abstraction layers for direct hardware-to-model communication.
-* **Memory Management:** Profiling and optimizing GPU/CPU memory allocation during autoregressive sampling.
-* **Language Bridges:** Benchmarking CGo overhead and optimizing Go-to-C++ context switching for tensor operations.
-
-## 🤝 Join the Foundry
-
-We operate strictly on evidence-based engineering and peer-reviewed optimizations. 
-
-* **Community:** Join our [Discord Server](#) (Link TBD) to discuss architecture, review arXiv preprints, and share profiling data.
-* **Contributions:** All architectural proposals must include benchmark data. Pull requests modifying `ggml` or CGo wrappers require memory leak tests.
+**Members & roster:** [docs/members/TEAM.md](https://github.com/Inference-Foundry/.github/blob/main/docs/members/TEAM.md)  
+**Project index & plans:** [docs/projects](https://github.com/Inference-Foundry/.github/tree/main/docs/projects)
 
 ---
-*Inference Foundry — Bypassing the network, talking to the metal.*
+
+## Projects
+
+| Project | What it is | Links |
+|--------|-------------|--------|
+| **super-ollama** | Terminal-native, in-process local LLM engine (no HTTP in the main UX); `llama.cpp` via CGo, focus on low overhead and clean teardown. | [Repo](https://github.com/Inference-Foundry/super-ollama) · [Roadmap (wiki)](https://github.com/Inference-Foundry/super-ollama/wiki/Roadmap) |
+| **Crucible** | Open research journal and experimental log. | [Repo](https://github.com/Inference-Foundry/Crucible) |
+| **Quantization** *(planned)* | Theory behind quantization methods and reproducible experiments. | Repo TBD — [org doc](https://github.com/Inference-Foundry/.github/blob/main/docs/projects/quantization.md) |
+| **Prompt library** *(planned)* | Open fine-tuned prompts plus analysis for reuse. | Repo TBD — [org doc](https://github.com/Inference-Foundry/.github/blob/main/docs/projects/prompt-library.md) |
+
+---
+
+## Participate
+
+- **Contributing (org-wide):** [CONTRIBUTING.md](https://github.com/Inference-Foundry/.github/blob/main/CONTRIBUTING.md) — each repository may add stricter or domain-specific rules.
+- **Code of conduct:** [CODE_OF_CONDUCT.md](https://github.com/Inference-Foundry/.github/blob/main/CODE_OF_CONDUCT.md)
+- **Security reporting:** [SECURITY.md](https://github.com/Inference-Foundry/.github/blob/main/SECURITY.md)
+- **Community:** [Discord](https://discord.gg/inference-foundry) — architecture, papers, and tooling discussion.
+
+---
+
+*Inference Foundry — open tools and honest measurements.*
