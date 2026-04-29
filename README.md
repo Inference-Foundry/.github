@@ -10,12 +10,16 @@ This repository is GitHub’s **[special `.github` organization repository](http
 |------|--------|
 | [`profile/README.md`](profile/README.md) | Renders on the **GitHub organization profile** (public landing). |
 | [`docs/projects/`](docs/projects/) | Short plans and links for each initiative (including repos not created yet). |
-| [`docs/members/TEAM.md`](docs/members/TEAM.md) | Public roster and who leans on which project. |
+| [`docs/members/`](docs/members/README.md) | Explains where **members** find the handbook ([`.github-private`](https://github.com/Inference-Foundry/.github-private)). |
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | Default contributing text for org repos that don’t define their own. |
 | [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) | Expected behavior in org spaces. |
 | [`SECURITY.md`](SECURITY.md) | Default security reporting; product-specific detail may live in each repo. |
 | [`ISSUE_TEMPLATE/`](ISSUE_TEMPLATE/) | Issue forms; use **Org meta** for changes to this repo or org-wide policy. |
 | [`PULL_REQUEST_TEMPLATE.md`](PULL_REQUEST_TEMPLATE.md) | Minimal default PR template for repos without one. |
+
+## Members
+
+The **[`.github-private`](https://github.com/Inference-Foundry/.github-private)** repository holds the **members handbook** and **canonical team roster** (access restricted to the organization). Public visitors use [`docs/members/README.md`](docs/members/README.md) for a short explanation and links.
 
 ## Contributing
 

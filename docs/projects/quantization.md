@@ -14,4 +14,4 @@ Repository **TBD**—this page is the org-level placeholder until a public repo 
 
 ## How to help
 
-When the repository exists, use its issues and contributing guide. Until then, coordinate with maintainers listed in [TEAM.md](../members/TEAM.md) or open an issue in [Inference-Foundry/.github](https://github.com/Inference-Foundry/.github/issues).
+When the repository exists, use its issues and contributing guide. Until then, coordinate with maintainers (see [members](https://github.com/Inference-Foundry/.github/blob/main/docs/members/README.md); roster in [`.github-private`](https://github.com/Inference-Foundry/.github-private)) or open an issue in [Inference-Foundry/.github](https://github.com/Inference-Foundry/.github/issues).

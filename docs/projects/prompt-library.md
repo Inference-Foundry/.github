@@ -14,4 +14,4 @@ Repository **TBD**—this page is the org-level placeholder until a public repo 
 
 ## How to help
 
-When the repository exists, contribute prompts and analysis through its workflow. Until then, coordinate via [TEAM.md](../members/TEAM.md).
+When the repository exists, contribute prompts and analysis through its workflow. Until then, coordinate via [members](https://github.com/Inference-Foundry/.github/blob/main/docs/members/README.md) (roster: [`.github-private`](https://github.com/Inference-Foundry/.github-private)).

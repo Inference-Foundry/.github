@@ -4,7 +4,7 @@ We are an open-source organization working next to research in **LLMs**, **diffu
 
 **Organization site (overview, news):** [inference-foundry.github.io](https://inference-foundry.github.io/)
 
-**Members & roster:** [docs/members/TEAM.md](https://github.com/Inference-Foundry/.github/blob/main/docs/members/TEAM.md)  
+**Members (handbook & roster):** [`.github-private`](https://github.com/Inference-Foundry/.github-private) — private repo; org access required.  
 **Project index & plans:** [docs/projects](https://github.com/Inference-Foundry/.github/tree/main/docs/projects)
 
 ---
