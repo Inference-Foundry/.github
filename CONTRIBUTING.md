@@ -24,4 +24,4 @@ To propose changes to the **org profile**, **team roster**, **project index**, o
 
 ## Questions
 
-Use [Discord](https://discord.gg/inference-foundry) (linked from the org profile) or open a discussion in the relevant project repository.
+Use [Discord](https://discord.gg/R8cgA4RpDV) (linked from the org profile) or open a discussion in the relevant project repository.
