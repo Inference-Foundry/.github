@@ -25,7 +25,7 @@ We are an open-source organization working next to research in **LLMs**, **diffu
 - **Contributing (org-wide):** [CONTRIBUTING.md](https://github.com/Inference-Foundry/.github/blob/main/CONTRIBUTING.md) — each repository may add stricter or domain-specific rules.
 - **Code of conduct:** [CODE_OF_CONDUCT.md](https://github.com/Inference-Foundry/.github/blob/main/CODE_OF_CONDUCT.md)
 - **Security reporting:** [SECURITY.md](https://github.com/Inference-Foundry/.github/blob/main/SECURITY.md)
-- **Community:** [Discord](https://discord.gg/inference-foundry) — architecture, papers, and tooling discussion.
+- **Community:** [Discord](https://discord.gg/R8cgA4RpDV) — architecture, papers, and tooling discussion.
 
 ---
 
