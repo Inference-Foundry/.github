@@ -22,7 +22,7 @@ JEPA (Joint Embedding Predictive Architecture), introduced by Yann LeCun's group
 
 - **Rich abstract representations:** I-JEPA and V-JEPA encoders learn features at a semantic level above low-level textures. Real and AI-generated images that look similar to the eye may diverge sharply in this representation space.
 - **No generative bias:** Because JEPA is not a generative model itself, its feature space is not confounded by familiarity with specific generator architectures (unlike detectors trained against a fixed GAN or diffusion model).
-- **Strong transfer:** Pre-trained JEPA encoders have demonstrated competitive transfer on recognition benchmarks with minimal fine-tuning, suggesting the representations are general enough to probe for unnatural statistical patterns.
+- **Strong transfer:** Pre-trained JEPA encoders have demonstrated competitive transfer on recognition benchmarks with minimal fine-tuning, suggesting the representations are generalised enough to probe for unnatural statistical patterns.
 - **Open weights:** Meta has released I-JEPA and V-JEPA checkpoints, making it practical to experiment without large-scale pre-training.
 
 The hypothesis is that a lightweight probe (linear classifier or small MLP) on top of frozen or lightly fine-tuned JEPA representations will generalise across generator families better than detectors trained end-to-end on pixel inputs.
