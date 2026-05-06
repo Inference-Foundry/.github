@@ -15,8 +15,9 @@ We are an open-source organization working next to research in **LLMs**, **diffu
 |--------|-------------|--------|
 | **super-ollama** | Terminal-native, in-process local LLM engine (no HTTP in the main UX); `llama.cpp` via CGo, focus on low overhead and clean teardown. | [Repo](https://github.com/Inference-Foundry/super-ollama) · [Roadmap (wiki)](https://github.com/Inference-Foundry/super-ollama/wiki/Roadmap) |
 | **Crucible** | Open research journal and experimental log. | [Repo](https://github.com/Inference-Foundry/Crucible) |
-| **Quantization** *(planned)* | Theory behind quantization methods and reproducible experiments. | Repo TBD — [org doc](https://github.com/Inference-Foundry/.github/blob/main/docs/projects/quantization.md) |
-| **Prompt library** *(planned)* | Open fine-tuned prompts plus analysis for reuse. | Repo TBD — [org doc](https://github.com/Inference-Foundry/.github/blob/main/docs/projects/prompt-library.md) |
+| **BitForge** *(planned)* | Quantization theory, methods, and reproducible experiments across bit-widths and runtimes. | Repo TBD — [org doc](https://github.com/Inference-Foundry/.github/blob/main/docs/projects/quantization.md) |
+| **Lexicon** *(planned)* | Open fine-tuned prompt catalog with versioning, licensing, and analysis for reuse. | Repo TBD — [org doc](https://github.com/Inference-Foundry/.github/blob/main/docs/projects/prompt-library.md) |
+| **Argus** *(planned)* | Algorithms to detect AI-generated images using JEPA-based representations. | Repo TBD — [org doc](https://github.com/Inference-Foundry/.github/blob/main/docs/projects/argus.md) |
 
 ---
 
