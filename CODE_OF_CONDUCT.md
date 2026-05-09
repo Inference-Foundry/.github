@@ -27,7 +27,7 @@ Report violations by emailing the maintainers at **conduct@inference-foundry.dev
 
 ## Architectural Discussions
 
-Open architectural debates, design critiques, and performance trade-off discussions are encouraged and happen primarily on the [Discord server](https://discord.gg/inference-foundry). Bring profiling data. Leave the ego at the door.
+Open architectural debates, design critiques, and performance trade-off discussions are encouraged and happen primarily on the [Discord server](https://discord.gg/R8cgA4RpDV). Bring profiling data. Leave the ego at the door.
 
 ---
 

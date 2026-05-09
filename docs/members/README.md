@@ -18,6 +18,8 @@ Request access from an existing org owner if you cannot view that repository.
 - **Organization profile:** rendered from [`profile/README.md`](https://github.com/Inference-Foundry/.github/blob/main/profile/README.md)
 - **Project summaries:** [`docs/projects/`](../projects/README.md)
 - **Policies:** [CONTRIBUTING.md](https://github.com/Inference-Foundry/.github/blob/main/CONTRIBUTING.md), [CODE_OF_CONDUCT.md](https://github.com/Inference-Foundry/.github/blob/main/CODE_OF_CONDUCT.md), [SECURITY.md](https://github.com/Inference-Foundry/.github/blob/main/SECURITY.md)
+- **Founders contact:** Kritarth Dandapat ([GitHub](https://github.com/Kritarth-Dandapat), [LinkedIn](https://www.linkedin.com/in/kritarth-dandapat/), Discord `kritarth2006`) and Atshal Ahmed Khan ([GitHub](https://github.com/atshalahmedkhan), [LinkedIn](https://www.linkedin.com/in/atshal-ahmed-631507251/), Discord `atshal123`)
+- **Community Discord:** [discord.gg/R8cgA4RpDV](https://discord.gg/R8cgA4RpDV)
 
 ## This folder
 
